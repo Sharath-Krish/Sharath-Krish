@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharath-Krish
-- 👀 I’m interested in Data exploration to bring it to life 
+- 👀 I’m interested in Data exploration and bring it to life to answer the real world problem
 - 🌱 I’m currently mastering all skillset that is required to become Data Analyst
 - 💞️ I’m looking to collaborate on hackathons, project building challenges etc
 
