@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharath-Krish
 - 👀 I’m interested in Data exploration and bring data to life to answer the real world problem
-- 🌱 I’m currently mastering all skillset that is required to become Data Analyst
+- 🌱 I’m currently mastering all skillsets that are required to become Data Analyst
 - 💞️ I’m looking to collaborate on hackathons, project building challenges etc
 
 "![image](https://github.com/Sharath-Krish/Sharath-Krish/assets/136909972/1dce7dcb-287a-4290-bb8b-b43ce306b9c2)">
